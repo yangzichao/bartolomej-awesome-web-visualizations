@@ -9,6 +9,7 @@
 - [All pages lead to Philosophy](https://www.xefer.com/wikipedia)
 - [NPM dependencies graph](http://npm.anvaka.com/#/)
 - [Minute Labs](https://minutelabs.io/)
+- [3D Visualization of an GPT-style LLM](https://github.com/bbycroft/llm-viz)
 
 ## Mathematics
 
